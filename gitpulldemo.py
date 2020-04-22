@@ -10,4 +10,4 @@ def m1():
       pass1
       
       def m4():
-        new pass
+        new pass1
