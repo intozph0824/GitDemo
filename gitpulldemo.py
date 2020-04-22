@@ -8,3 +8,6 @@ def m1():
 
     def m3():
       pass1
+      
+      def m4():
+        new pass
